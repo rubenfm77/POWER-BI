@@ -11,15 +11,13 @@ You'll find Power BI dashboards for sales and also for human resources attrition
 ![PowerBIhr2](https://github.com/rubenfm77/POWER-BI/blob/main/HRDash_2.jpg)
 
 
-#### EXAMPLE OF A SALES DASHBOARD AND DATA MODEL FOR PBI FILE CALLED SALES TEST2:
+#### EXAMPLE OF A SALES DASHBOARD AND DATA MODEL FOR PBI FILE CALLED SALES BUDGET:
 
-![PowerBIsales1](https://github.com/rubenfm77/POWER-BI/blob/main/Dasahsalestest2_1.jpg)
+![PowerBIsales1](https://github.com/rubenfm77/POWER-BI/blob/main/sales_budget1.jpg)
 
-![PowerBIsales2](https://github.com/rubenfm77/POWER-BI/blob/main/Dasahsalestest2_2.jpg)
+![PowerBIsales2](https://github.com/rubenfm77/POWER-BI/blob/main/sales_budget2.jpg)
 
-![PowerBIsales3](https://github.com/rubenfm77/POWER-BI/blob/main/Dasahsalestest2_3.jpg)
-
-![PowerBIhr2](https://github.com/rubenfm77/POWER-BI/blob/main/data_model_salestest2.jpg)
+![PowerBIhr2](https://github.com/rubenfm77/POWER-BI/blob/main/data_model_salesbudget.jpg)
 
 
 #### EXAMPLE OF A SALES DASHBOARD AND DATA MODEL FOR PBI FILE CALLED SALES TEST2:
