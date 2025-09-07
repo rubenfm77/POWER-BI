@@ -6,4 +6,6 @@ You'll find Power BI dashboards for sales and also human resources attrition. It
 
 #### EXAMPLE OF A HR DASHBOARD
 
-![PowerBI](https://github.com/rubenfm77/POWER-BI/blob/main/LOGO.jpg)
+![PowerBIhr1]([https://github.com/rubenfm77/POWER-BI/blob/main/LOGO](https://github.com/rubenfm77/POWER-BI/blob/main/HRDash_1.jpg)
+
+![PowerBIhr1]([https://github.com/rubenfm77/POWER-BI/blob/main/LOGO](https://github.com/rubenfm77/POWER-BI/blob/main/HRDash_1.jpg)
