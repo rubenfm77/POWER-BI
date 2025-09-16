@@ -10,6 +10,11 @@ You'll find Power BI dashboards for sales and also for human resources attrition
 
 ![PowerBIhr2](https://github.com/rubenfm77/POWER-BI/blob/main/HRDash_2.jpg)
 
+#### EXAMPLE OF A SALES AND CUSTOMERS FUNNEL REPORT  (PBI BIKES):
+
+![sales]( https://github.com/rubenfm77/SQL-SERVER-ADVANCED-ANALYTICS/blob/main/SALES.jpg)   
+
+![sales1]( https://github.com/rubenfm77/SQL-SERVER-ADVANCED-ANALYTICS/blob/main/SALES1.jpg) 
 
 #### EXAMPLE OF A SALES DASHBOARD AND DATA MODEL FOR PBI FILE CALLED SALES BUDGET:
 
